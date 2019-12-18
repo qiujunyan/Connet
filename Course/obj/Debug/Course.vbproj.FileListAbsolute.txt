@@ -1,0 +1,17 @@
+F:\01_UCAS\05_task\Course\Course\bin\Debug\Course.exe.config
+F:\01_UCAS\05_task\Course\Course\bin\Debug\Course.exe
+F:\01_UCAS\05_task\Course\Course\bin\Debug\Course.pdb
+F:\01_UCAS\05_task\Course\Course\bin\Debug\Course.xml
+F:\01_UCAS\05_task\Course\Course\bin\Debug\Connet.dll
+F:\01_UCAS\05_task\Course\Course\obj\Debug\Course.vbprojResolveAssemblyReference.cache
+F:\01_UCAS\05_task\Course\Course\obj\Debug\Course.frm_edit.resources
+F:\01_UCAS\05_task\Course\Course\obj\Debug\Course.start.resources
+F:\01_UCAS\05_task\Course\Course\obj\Debug\Course.Resources.resources
+F:\01_UCAS\05_task\Course\Course\obj\Debug\Course.vbproj.GenerateResource.cache
+F:\01_UCAS\05_task\Course\Course\obj\Debug\Course.vbproj.CoreCompileInputs.cache
+F:\01_UCAS\05_task\Course\Course\obj\Debug\Course.vbproj.CopyComplete
+F:\01_UCAS\05_task\Course\Course\obj\Debug\Course.exe
+F:\01_UCAS\05_task\Course\Course\obj\Debug\Course.xml
+F:\01_UCAS\05_task\Course\Course\obj\Debug\Course.pdb
+F:\01_UCAS\05_task\Course\Course\obj\Debug\Course.frm_learn.resources
+F:\01_UCAS\05_task\Course\Course\obj\Debug\Course.frm_add_nodes.resources
